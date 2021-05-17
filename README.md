@@ -6,3 +6,5 @@
 - 📫 How to reach me: [Email](dbhowmick21@gsb.columbia.edu) ; [LinkedIn](www.linkedin.com/in/dbhowmick)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The record for the loudest cat purr is 67.8db. A typical shower is 25db.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debopriyobhowmick)](https://github.com/anuraghazra/github-readme-stats)
